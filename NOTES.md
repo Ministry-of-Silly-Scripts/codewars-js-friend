@@ -16,6 +16,11 @@ friend ["Ryan", "Kieran", "Mark"] `shouldBe` ["Ryan", "Mark"]
 
 Note: keep the original order of the names in the output.
 
+## Domain 
+- input: list of strings
+- output: list of strings
+- Rules:
+    - output list of strings only contains strings with 4 letters 
 
 ---
 
@@ -33,4 +38,4 @@ TODO:
     - update NOTES ✅
     - update package.json ✅
     - update code/test files ✅
-domain discussion 
+domain discussion ✅
