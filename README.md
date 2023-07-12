@@ -1,8 +1,8 @@
-# XXXXX kata 
+# Friend or Foe? kata 
 
-XXXXX kata performed by to practice TDD for the Jaguars training at IBM
+Friend or Foe? kata performed by to practice TDD for the Jaguars training at IBM
 
-[XXXXXX on CodeWars](https://www.codewars.com/kata/)
+[Friend or Foe? on CodeWars](https://www.codewars.com/kata/55b42574ff091733d900002f)
 
 ## Prerequisites
 

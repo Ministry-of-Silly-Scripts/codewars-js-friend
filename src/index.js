@@ -1,5 +1,5 @@
-const placeholder = () => true;
+const friend = () => true;
 
 module.exports = {
-  placeholder,
+  friend,
 };
