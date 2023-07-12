@@ -43,3 +43,4 @@ TODO:
 - it should return ["Ryan"] for input ["Ryan"] ✅
 - it should return ["Mark"] for input ["Mark"] ✅
 - it should return [] for input ["Kieran"] ✅
+- it should return ["Ryan", "Mark"] for input ["Ryan", "Kieran", "Mark"] ✅

@@ -1,9 +1,12 @@
 const friend = (friends) => {
-  if (friends[0].length !== 4) {
-    return []
+  out_friends = []
+  for (let i = 0; i < friends.length; i++) {
+    if (friends[i].length === 4) {
+      out_friends.push(friends[i])
+    }
   }
 
-  return friends 
+  return out_friends 
 };
 
 module.exports = {
