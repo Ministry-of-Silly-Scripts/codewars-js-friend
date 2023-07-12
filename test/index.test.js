@@ -10,4 +10,8 @@ describe('friend', () => {
   it('should return ["Ryan"] for input equal to ["Ryan"]', () => {
     expect(friend(["Ryan"])).toStrictEqual(["Ryan"]);
   });
+
+  it('should return ["Mark"] for input equal to ["Mark"]', () => {
+    expect(friend(["Mark"])).toStrictEqual(["Mark"]);
+  });
 });

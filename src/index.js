@@ -1,5 +1,5 @@
 const friend = (friends) => {
-  return ["Ryan"]
+  return friends 
 };
 
 module.exports = {
