@@ -6,3 +6,8 @@ describe('the friend canary spec', () => {
   });
 });
 
+describe('friend', () => {
+  it('should return ["Ryan"] for input equal to ["Ryan"]', () => {
+    expect(friend(["Ryan"])).toStrictEqual(["Ryan"]);
+  });
+});
